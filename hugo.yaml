@@ -77,8 +77,8 @@ params:
   # ucloudad01: "1"
   
   author:
-    name: "何夕2077的AI资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态"
-    bio: "去海边整点薯条"
+    name: "simsim | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    bio: "码字码字码字"
     email: "justlikemaki@qq.com"
     website: "https://ai.hubtoday.app/about/"
     social:
@@ -87,7 +87,7 @@ params:
         
   publisher:
     type: "Person" 
-    name: "何夕2077的AI资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    name: "simsim2026资讯 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     url: "https://ai.hubtoday.app/about/"
     sameAs:
       - "https://github.com/justlovemaki"
