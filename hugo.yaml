@@ -81,7 +81,7 @@ params:
     name: "simsim | 精选AI新闻与工具 | 洞悉AI前沿动态"
     bio: "码字码字码字"
     email: "justlikemaki@qq.com"
-    website: "https://ai.hubtoday.app/about/"
+    website: "simsimtobe-maker/Hextra-AI-Insight-Daily"
     social:
       - name: "GitHub"
         url: "https://github.com/justlovemaki"
@@ -142,7 +142,7 @@ params:
     type: giscus
 
     giscus:
-      repo: justlovemaki/Hextra-AI-Insight-Daily
+      repo: simsimtobe-maker/Hextra-AI-Insight-Daily。
       repoId: R_kgDOO_2Owg
       category: Announcements
       categoryId: DIC_kwDOO_2Ows4Cr2Q0
